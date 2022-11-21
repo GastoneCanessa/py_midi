@@ -1,0 +1,7 @@
+fire==0.4.0
+midi==0.2.3
+mido==1.2.10
+py-midi==2.0.1
+pyserial==3.5
+six==1.16.0
+termcolor==2.1.1
